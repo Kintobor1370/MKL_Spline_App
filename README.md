@@ -7,6 +7,9 @@ The user can choose between three types of functions:
 - Exponential function
 - Pseudorandom number generator
 <a/>
-\
-This application is made via Windows Presentation Foundation following MVVM pattern and uses the Intel MKL math library for spline interpolations.
-The Intel MKL library has to be installed manually.
+
+Application features:
+- made via Windows Presentation Foundation
+- utilises MVVM pattern
+- to affect the precision of the interpolation, the user can modify the data segment's boundaries, derivative values, and number of nodes the segment will be divided on.
+- Intel MKL math library is used for spline interpolations (has to be installed manually).
