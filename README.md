@@ -5,8 +5,7 @@ The splines' first derivative value at the start and the end of the measured dat
 The user can choose between three types of functions:
 - Cubic polynomial: _y = x^3 + 3x^2 - 6x - 18_
 - Exponential function
-- Pseudorandom number generator
-\
+- Pseudorandom number generator\
 \
 This application is made via Windows Presentation Foundation following MVVM pattern and uses the Intel MKL math library for spline interpolations.
 The Intel MKL library has to be installed manually.
