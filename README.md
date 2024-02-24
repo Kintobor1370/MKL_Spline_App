@@ -7,7 +7,7 @@ The user can choose between three types of functions:
 - Cubic polynomial: _y = x^3 + 3x^2 - 6x - 18_
 - Exponential function
 - Pseudorandom number generator
-  \
+\
 <a/>
 
 Application features:
