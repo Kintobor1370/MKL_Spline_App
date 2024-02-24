@@ -8,5 +8,5 @@ The user can choose between three types of functions:
 - Pseudorandom number generator
 \
 \
-This app is made via Windows Presentation Foundation following MVVM pattern and uses the Intel MKL math library for spline interpolations.
+This application is made via Windows Presentation Foundation following MVVM pattern and uses the Intel MKL math library for spline interpolations.
 The Intel MKL library has to be installed manually.
