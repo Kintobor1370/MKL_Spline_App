@@ -8,7 +8,6 @@ The user can choose between three types of functions:
 - Exponential function
 - Pseudorandom number generator
 <a/>
-\
 
 Application features:
 - made via Windows Presentation Foundation
